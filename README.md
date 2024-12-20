@@ -1,10 +1,19 @@
-- 👋 Hi, I’m **Deepakkumar V**  
-- 👀 I’m interested in **Full Stack Web Development, UI/UX Design, and Problem-Solving**.  
-- 🌱 I’m currently learning **Data Structures in Java** and solving challenges on **LeetCode**.  
-- 💞️ I’m looking to collaborate on **open-source projects** and innovative tech solutions.  
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/your-profile) | [Instagram](https://instagram.com/your-profile)  
-- 😄 Pronouns: **He/Him**  
-- ⚡ Fun fact: I enjoy turning ideas into reality through code and love learning new tech tools!
+# Hi 👋, I'm Deepakkumar V  
+**Turning ideas into seamless digital experiences**  
+
+A passionate frontend developer from India who loves crafting elegant, functional, and impactful web solutions.  
+
+
+
+## Add-ons 
+- ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Deepak5556&theme=gruvbox)  
+- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deepak5556&show_icons=true&theme=radical)  
+- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak5556&layout=compact&theme=radical)  
+- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Deepak5556&theme=radical)  
+
+---
+
+✨ *Keep coding, keep innovating!* ✨
 
 <!---
 Deepak5556/Deepak5556 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
