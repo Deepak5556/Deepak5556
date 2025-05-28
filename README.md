@@ -45,9 +45,9 @@
 
 ## 💻 My Gear Setup
 
-| 💻 Laptop             | 🧠 Processor   | 🎮 Graphics         | 🔋 RAM   |
+| 💻 Laptop             | 🧠 Processor  | 🎮 Graphics         | 🔋 RAM   |
 |-----------------------|----------------|----------------------|----------|
-| Lenovo IdeaPad Gaming | Ryzen 5 4600U  | Radeon Integrated    | 8GB      |
+| Lenovo IdeaPad Gaming | Ryzen 5 5600H  | Radeon Integrated    | 8GB      |
 
 ---
 
